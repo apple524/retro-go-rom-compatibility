@@ -67,6 +67,7 @@ The following games are known to have issues when using `retro-go`.
 |NES|**S**|||
 |NES|Super Mario Bros. 2 (J)|ALL| | BSOD |NO
 |NES|Super Mario Bros. 3 (U)|FADE3E2F||Minor scaling issue |YES
+|NES|Sangokushi 2 - Hanou No Tairiku (J)| | |BSOD | |NO
 ||||||
 |NES|**T**||||
 |NES|Teenage Mutant Ninja Turtles (U) |001834E4| |MGI|YES
